@@ -1,1 +1,1 @@
-print("subi")
+print("subis")
